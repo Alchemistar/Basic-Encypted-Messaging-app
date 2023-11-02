@@ -1,5 +1,5 @@
 # Basic-Encypted-Messaging-app
-We created this project with 3 friends to gain experience and have fun.
+We, along with two other friends, created this project to gain experience and have fun
 
 This project uses hole punching to create a connection between two clients.
 If you want to use this program you need a server with a static ip and open port.
