@@ -11,4 +11,4 @@ The encryption algorithm is RSA and by default the key lenght is 1024 bits.
 
 After setting up the server with server.py you can run the arayüz.py and use the program.
 
-The plain buplic and private key.txt files are for debugging purposes. You should not share your private key.
+The plain public and private key.txt files are for debugging purposes. You should not share your private key.
